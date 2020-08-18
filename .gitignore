@@ -1,0 +1,8 @@
+.lastwatch
+outdir
+__pycache__
+.ipynb_checkpoints
+*.out
+*.dat
+*.gnu
+*.rap
